@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">GramVaxi</string>
+    <string name="app_name_kn">ಗ್ರಾಮವಾಕ್ಸಿ</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="unknown_animal">Unknown Animal</string>
+    <string name="save">SAVE</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="listening">Listening...</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="all_records">All Records</string>
+    <string name="search_records">Search animal or vaccine...</string>
+    <string name="no_results">No matching records found</string>
+    <string name="edit">Edit</string>
+    <string name="call">Call</string>
+
+    <!-- Dashboard -->
+    <string name="quick_actions">Quick Actions</string>
+    <string name="add_animal">Add Animal</string>
+    <string name="vaccination">Vaccination</string>
+    <string name="reports">Reports</string>
+    <string name="my_animals">My Animals</string>
+    <string name="no_animals_yet">No animals registered yet</string>
+    <string name="years_label">Yrs</string>
+    <string name="overdue_alerts">Overdue Alerts</string>
+    <string name="health_alerts">Health Alerts</string>
+    <string name="due_on">Due on</string>
+    <string name="vet_camps">Vet Camps</string>
+    <string name="upcoming_camp">Next Camp</string>
+    <string name="ai_assistant">AI Assistant</string>
+    <string name="emergency">Emergency</string>
+
+    <!-- Add Animal -->
+    <string name="select_species">Select Species</string>
+    <string name="cow">Cow</string>
+    <string name="goat">Goat</string>
+    <string name="sheep">Sheep</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="breed">Breed</string>
+    <string name="age_years">Age (in years)</string>
+    <string name="animal_photo">Animal Photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="save_animal">SAVE ANIMAL</string>
+    <string name="error_fill_fields">Please fill all required fields</string>
+    <string name="camera_permission_denied">Camera permission is required to take photos</string>
+    <string name="failed_save_image">Failed to save image</string>
+    <string name="captured_image_desc">Captured Animal Image</string>
+
+    <!-- Vaccination -->
+    <string name="vaccination_records">Vaccination Records</string>
+    <string name="vaccinated_on">Vaccinated on</string>
+    <string name="next_due">Next Due</string>
+    <string name="no_vaccination_records">No vaccination records found</string>
+    <string name="add_vaccination_title">Add Vaccination</string>
+    <string name="select_animal">Select Animal</string>
+    <string name="choose_animal">Choose an animal</string>
+    <string name="vaccine_name">Vaccine Name</string>
+    <string name="vaccination_date">Vaccination Date</string>
+    <string name="next_due_date">Next Due Date</string>
+    <string name="save_record">SAVE RECORD</string>
+    <string name="upcoming_vaccination">Upcoming Vaccination</string>
+    <string name="filter_all">All</string>
+    <string name="filter_overdue">Overdue</string>
+    <string name="filter_upcoming">Upcoming</string>
+    <string name="filter_safe">Safe</string>
+
+    <!-- Reports -->
+    <string name="app_reports">App Reports</string>
+    <string name="overall_summary">Overall Summary</string>
+    <string name="total_animals">Total Animals</string>
+    <string name="vaccinated_count">Vaccinated</string>
+    <string name="pending_vaccinations">Pending Vaccinations</string>
+    <string name="vaccination_progress">Vaccination Progress</string>
+    <string name="coverage">Coverage</string>
+    <string name="data_insight">Data Insight</string>
+    <string name="data_insight_desc">Keep animal records updated for accurate tracking.</string>
+    <string name="generate_report">Generate PDF Report</string>
+    <string name="report_generated">Report generated successfully</string>
+    <string name="report_failed">Failed to generate report</string>
+    <string name="vaccination_report_title">Animal Vaccination Report</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="general">General</string>
+    <string name="language">Language</string>
+    <string name="display">Display</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Toggle app dark theme</string>
+    <string name="alerts">Alerts</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_desc">Get vaccination reminders</string>
+    <string name="app_info">App Info</string>
+    <string name="about_app">About GramVaxi</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="version">Version</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_assistant_title">AI Health Assistant</string>
+    <string name="ai_assistant_desc">Animal health help</string>
+    <string name="ask_ai_placeholder">Describe symptoms...</string>
+
+    <!-- Vet Camps -->
+    <string name="add_camp">Add Camp</string>
+    <string name="camp_title">Camp Title</string>
+    <string name="camp_location">Location</string>
+    <string name="camp_date">Date</string>
+    <string name="camp_description">Description (Optional)</string>
+    <string name="no_camps">No upcoming camps scheduled</string>
+    <string name="camp_reminder_title">Upcoming Vet Camp</string>
+    <string name="camp_reminder_text">A veterinary camp \'%1$s\' is scheduled on %2$s at %3$s</string>
+
+    <!-- Farmer Profile -->
+    <string name="farmer_profile">Farmer Profile</string>
+    <string name="profile_title">My Profile</string>
+    <string name="farmer_name">Farmer Name</string>
+    <string name="village_name">Village</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    <string name="not_set">Not set</string>
+
+    <!-- Emergency Vet -->
+    <string name="emergency_vet_title">Emergency Vet Help</string>
+    <string name="call_vet_now">CALL VETERINARIAN NOW</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="nearby_hospitals">Nearby Vet Hospitals</string>
+    <string name="govt_helpline">Govt Animal Helpline</string>
+</resources>
